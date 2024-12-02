@@ -24,8 +24,9 @@
   <p>What i'm currently learning:</b></p>
   <ul>
     <li>
-      <img src="https://img.shields.io/badge/godot-engine-1572B6?style=for-the-badge&logo=godot-engine&" />
+      <img src="https://img.shields.io/badge/godot-110991?style=for-the-badge&logo=godot-engine&" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/tauri-blue?style=for-the-badge&logo=tauri&logoColor=yellow" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     </li>
