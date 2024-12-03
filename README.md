@@ -21,6 +21,11 @@
       <img src="https://img.shields.io/badge/Unreal engine-1572B6?style=for-the-badge&logo=Unreal engine&logoColor=black" />
     </li>
   </ul>
+ <p>These I know a bit</p>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=PowerShell&logoColor=white" />
+  </ul>
   <p>What i'm currently learning:</b></p>
   <ul>
     <li>
