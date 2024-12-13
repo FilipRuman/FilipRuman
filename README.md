@@ -1,6 +1,6 @@
 <h1 align="center">✋Hi! Welcome to my Github, I'm Filip / Fiflak choose what you want </h1>
 <p align="center">I'm a passionate programmer / game dev. I’ve been doing this for 6 years +
-<p align="center">I've been creating my game for last 2 years and 🙏HOPEFULLY I'll finish it in 2025 🙏
+<p align="center">I've been creating my dream game(sci-fi 4x something like stellaris/Galactic Civilizations but) for last 2 years and 🙏HOPEFULLY I'll finish it in 2025 🙏
 <div align="center">
  
 </div>
