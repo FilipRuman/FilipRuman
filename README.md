@@ -1,6 +1,8 @@
 <h1 align="center">✋Hi! Welcome to my Github, I'm Filip / Fiflak choose what you want </h1>
 <p align="center">I'm a passionate programmer / game dev. I’ve been doing this for 6 years +
-<p align="center">I've been creating my dream game(sci-fi 4x something like stellaris/Galactic Civilizations but) for last 2 years and 🙏HOPEFULLY I'll finish it in 2025 🙏
+<p align="center">I've been creating my dream game -> 
+ (It's a 2D top down, multiplayer, X4 - simmilar to stellaris / civ and takes some parts of economy form factorio/satisfactory and adds interesting diplomacy between Ai and players )
+ for last 3+ years and 🙏HOPEFULLY I'll finish it in 2025 🙏
 <div align="center">
  
 </div>
@@ -32,10 +34,11 @@
     <li>
       <img src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=PowerShell&logoColor=white" />
   </ul>
-  <p>What i'm currently learning:</b></p>
+  <p>What planning to learn:</b></p>
   <ul>
     <li>
       <img src="https://img.shields.io/badge/godot-110991?style=for-the-badge&logo=godot-engine&" />
+     <img src="https://img.shields.io/badge/C++-110991?style=for-the-badge&logo=C++&" />
     </li>
   </ul>
 
