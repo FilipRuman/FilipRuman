@@ -10,7 +10,7 @@
 
 <hr>
 <div >
-  <p>These are my <b>current knowledge:</b></p>
+  <p>my current knowledge:</p>
   <ul>
     <li>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,12 +29,12 @@
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
      </li>
   </ul>
- <p>These I know a bit</p>
+ <p>I know a bit</p>
   <ul>
     <li>
       <img src="https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=PowerShell&logoColor=white" />
   </ul>
-  <p>What planning to learn:</b></p>
+  <p>What I'm planning to learn:</b></p>
   <ul>
     <li>
       <img src="https://img.shields.io/badge/godot-110991?style=for-the-badge&logo=godot-engine&" />
