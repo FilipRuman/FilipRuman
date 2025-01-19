@@ -39,6 +39,7 @@
     <li>
       <img src="https://img.shields.io/badge/godot-110991?style=for-the-badge&logo=godot-engine&" />
      <img src="https://img.shields.io/badge/C++-110991?style=for-the-badge&logo=C++&" />
+    <img src="https://img.shields.io/badge/C-110991?style=for-the-badge&logo=C&" />
     </li>
   </ul>
 
