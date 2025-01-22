@@ -17,16 +17,19 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </li>
     <li>
-      <img src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=csharp" />
+      <img src="https://img.shields.io/badge/tauri-blue?style=for-the-badge&logo=tauri&logoColor=yellow" />
       <img src="https://img.shields.io/badge/.NET-404DFF?style=for-the-badge&logo=.net&logoColor=white" />
       <img src="https://img.shields.io/badge/Unity-1572B6?style=for-the-badge&logo=Unity&logoColor=white" />
       <img src="https://img.shields.io/badge/Unreal engine-1572B6?style=for-the-badge&logo=Unreal engine&logoColor=black" />
+     <img src="https://img.shields.io/badge/godot-110991?style=for-the-badge&logo=godot-engine&" />
     </li>
     <li>
+     <img src="https://img.shields.io/badge/phyton-323330?style=for-the-badge&logo=phyton&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/tauri-blue?style=for-the-badge&logo=tauri&logoColor=yellow" />
+      <img src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=csharp" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+      
      </li>
   </ul>
  <p>I know a bit</p>
@@ -37,10 +40,8 @@
   <p>What I'm planning to learn:</b></p>
   <ul>
     <li>
-      <img src="https://img.shields.io/badge/godot-110991?style=for-the-badge&logo=godot-engine&" />
      <img src="https://img.shields.io/badge/C++-110991?style=for-the-badge&logo=C++&" />
     <img src="https://img.shields.io/badge/C-110991?style=for-the-badge&logo=C&" />
-     <img src="https://img.shields.io/badge/C-110991?style=for-the-badge&logo=sql&" />
     </li>
   </ul>
 
