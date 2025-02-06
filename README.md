@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=FFFFFF)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/-007ACC?style=flat&logo=C&logoColor=FFFFFF)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
