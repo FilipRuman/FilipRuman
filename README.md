@@ -13,6 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
 ---
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=000000)
+ ![Bevy](https://img.shields.io/badge/Bevy-478CBF?style=flat&logo=bevy&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unreal-engine&logoColor=FFFFFF)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=FFFFFF)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=F7DF1E)
