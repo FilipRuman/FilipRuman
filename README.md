@@ -1,6 +1,7 @@
+<div align="center">
+ 
 # Doing things that l'm currently intrested in.
 
-<div align="center">
  
 ## 🚀 Skills & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
