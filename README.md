@@ -15,6 +15,7 @@
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=F7DF1E)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=FFFFFF)
 ---
+![Brainfuck](https://img.shields.io/badge/-Brainfuck-8A2BE2?style=flat&logo=&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=FFFFFF)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=FFFFFF)
