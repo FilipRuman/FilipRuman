@@ -26,3 +26,6 @@
 [![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=for-the-badge&logo=godot-engine&style=flat&logoColor=white&logoWidth=20)](https://docs.godotengine.org/en/stable/gdscript/index.html)
 
 [comment]: <> (aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZOXI3dTQ4bkJ4cyZsaXN0PUxMJmluZGV4PTEzOA==)
+# Sponsored by:
+
+![image](https://github.com/user-attachments/assets/bb96c411-99d3-4c67-852c-3a4b89b07a6a)
