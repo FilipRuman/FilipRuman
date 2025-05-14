@@ -1,8 +1,7 @@
 <div align="center">
- 
-# Doing things that l'm currently intrested in.
 
- 
+ ## "Expirience"
+ - 16 years+ as a head mantainer at DDDDBFD fundation ~~(Direct development of declerative and deterministic brainfuck deployment)~~
 ## 🚀 Skills & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
@@ -25,3 +24,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
 [![glsl](https://img.shields.io/badge/glsl-%237CB342?style=for-the-badge&logo=opengl&style=flat&logoColor=white&logoWidth=20)](https://www.opengl.org/)
 [![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=for-the-badge&logo=godot-engine&style=flat&logoColor=white&logoWidth=20)](https://docs.godotengine.org/en/stable/gdscript/index.html)
+
+[comment]: <> (aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZOXI3dTQ4bkJ4cyZsaXN0PUxMJmluZGV4PTEzOA==)
