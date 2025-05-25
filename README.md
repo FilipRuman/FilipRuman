@@ -1,3 +1,4 @@
+# Everything in life is a dice roll, but you just have to stack the dice in your favor
 <div align="center">
 
  ## "Expirience"
