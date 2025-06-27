@@ -6,6 +6,12 @@
  - former microsoft ecosystem slave
  - years of tweaking every irrelevant thing in all of the useless tools
 ## 🚀 Skills & Tools
+![Hyprland](https://img.shields.io/badge/Hyprland-00ADB5?style=flat&logo=linux&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat&logo=kde&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
+
+---
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
@@ -17,6 +23,7 @@
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=F7DF1E)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=FFFFFF)
 ---
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Brainfuck](https://img.shields.io/badge/-Brainfuck-8A2BE2?style=flat&logo=&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=FFFFFF)
