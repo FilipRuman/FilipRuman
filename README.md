@@ -32,8 +32,8 @@
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/-007ACC?style=flat&logo=C&logoColor=FFFFFF)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
+![TypeShit](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
+![JavaShit](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 [![glsl](https://img.shields.io/badge/glsl-%237CB342?style=for-the-badge&logo=opengl&style=flat&logoColor=white&logoWidth=20)](https://www.opengl.org/)
 [![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=for-the-badge&logo=godot-engine&style=flat&logoColor=white&logoWidth=20)](https://docs.godotengine.org/en/stable/gdscript/index.html)
 
