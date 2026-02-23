@@ -1,7 +1,8 @@
 # Everything in life is a dice roll, but you just have to stack the dice in your favor
-<div align="center">
 #  !!!WARNING!!! You've encoutered a rare specie of a NIXOS psycho fan
  # I Fucking hate cpp.
+<div align="center">
+
 
  ## "Experience"
  - 16 years+ as a head mantainer at DDDDBFD fundation (Direct development of declerative and deterministic brainfuck deployment)
