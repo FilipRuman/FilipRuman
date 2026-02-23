@@ -8,7 +8,7 @@
  - 16 years+ as a head mantainer at DDDDBFD fundation (Direct development of declerative and deterministic brainfuck deployment)
  - former microsoft ecosystem slave
  - years of tweaking every irrelevant thing in all of the useless tools
- - I some times build linux frim scratch for fan.
+ - I some times build linux from scratch for fun.
  - creator of ULTRA SUPER DUPER complex shaders [1](https://godotshaders.com/shader/blur-chromatic-aberration-shader-for-ui/) [2](https://github.com/FilipRuman/clouds/tree/main)
 ## 🚀 Skills & Tools
 ![Hyprland](https://img.shields.io/badge/Hyprland-00ADB5?style=flat&logo=linux&logoColor=white)
