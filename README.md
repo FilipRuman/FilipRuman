@@ -1,50 +1,16 @@
-# Everything in life is a dice roll, but you just have to stack the dice in your favor
 #  !!!WARNING!!! You've encoutered a rare specie of a NIXOS psycho fan
 
 <div align="center">
-
-
+ 
  ## "Experience"
  - Hate cpp with eavery part of my heart.
  - 16 years+ as a head mantainer at DDDDBFD fundation (Direct development of declerative and deterministic brainfuck deployment)
- - former microsoft ecosystem slave
- - years of tweaking every irrelevant thing in all of the useless tools
- - I some times build linux from scratch for fun.
- - creator of ULTRA SUPER DUPER complex shaders [1](https://godotshaders.com/shader/blur-chromatic-aberration-shader-for-ui/) [2](https://github.com/FilipRuman/clouds/tree/main)
-## 🚀 Skills & Tools
-![Hyprland](https://img.shields.io/badge/Hyprland-00ADB5?style=flat&logo=linux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat&logo=kde&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
-
----
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
----
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=000000)
- ![Bevy](https://img.shields.io/badge/Bevy-478CBF?style=flat&logo=bevy&logoColor=FFFFFF)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unreal-engine&logoColor=FFFFFF)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=FFFFFF)
-![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=F7DF1E)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=FFFFFF)
----
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
-![Brainfuck](https://img.shields.io/badge/-Brainfuck-8A2BE2?style=flat&logo=&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=FFFFFF)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=FFFFFF)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=FFFFFF)
-![C](https://img.shields.io/badge/-007ACC?style=flat&logo=C&logoColor=FFFFFF)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=FFFFFF)
-![TypeShit](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=FFFFFF)
-![JavaShit](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-[![glsl](https://img.shields.io/badge/glsl-%237CB342?style=for-the-badge&logo=opengl&style=flat&logoColor=white&logoWidth=20)](https://www.opengl.org/)
-[![GDScript](https://img.shields.io/badge/GDScript-%23478cbf?style=for-the-badge&logo=godot-engine&style=flat&logoColor=white&logoWidth=20)](https://docs.godotengine.org/en/stable/gdscript/index.html)
+ - Former microsoft ecosystem slave
+ - Years of tweaking every irrelevant thing in all the useless tools
+ - Some times build linux from scratch for fun.
+ - Creator of ULTRA SUPER DUPER complex shaders [1](https://godotshaders.com/shader/blur-chromatic-aberration-shader-for-ui/) [2](https://github.com/FilipRuman/clouds/tree/main)
 
 [comment]: <> (aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZOXI3dTQ4bkJ4cyZsaXN0PUxMJmluZGV4PTEzOA==)
-
-
 
 
 
