@@ -1,10 +1,11 @@
 # Everything in life is a dice roll, but you just have to stack the dice in your favor
 #  !!!WARNING!!! You've encoutered a rare specie of a NIXOS psycho fan
- # I Fucking hate cpp.
+
 <div align="center">
 
 
  ## "Experience"
+ - Hate cpp with eavery part of my heart.
  - 16 years+ as a head mantainer at DDDDBFD fundation (Direct development of declerative and deterministic brainfuck deployment)
  - former microsoft ecosystem slave
  - years of tweaking every irrelevant thing in all of the useless tools
